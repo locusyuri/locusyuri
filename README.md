@@ -94,7 +94,7 @@ Tech Stack
 </details>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 📊 GITHUB STATS -->
+<!-- 📊 GITHUB SUMMARY CARDS -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <h2>
@@ -104,12 +104,31 @@ GitHub Stats
 
 <div align="center">
 
-<!-- Stats Cards - using reliable mirror -->
-<a href="https://github.com/locusyuri">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=locusyuri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&icon_color=7aa2f7&title_color=7aa2f7&text_color=a9b1d6&cache_seconds=86400" alt="GitHub Stats" />
+<!-- Profile Details Summary Card -->
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=locusyuri&theme=tokyonight" alt="Profile Details" />
 </a>
-<a href="https://github.com/locusyuri">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=locusyuri&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6&cache_seconds=86400" alt="Most Used Languages" />
+
+<br/>
+
+<!-- Stats + Commits by Language -->
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=locusyuri&theme=tokyonight" alt="Stats" />
+</a>
+&nbsp;
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=locusyuri&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+</a>
+
+<br/>
+
+<!-- Repos per Language + Most Commit Language -->
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=locusyuri&theme=tokyonight" alt="Repos per Language" />
+</a>
+&nbsp;
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=locusyuri&theme=tokyonight" alt="Most Commit Language" />
 </a>
 
 <br/><br/>
@@ -117,23 +136,6 @@ GitHub Stats
 <!-- Streak Stats -->
 <a href="https://github.com/locusyuri">
   <img src="https://streak-stats.demolab.com/?user=locusyuri&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7" alt="GitHub Streak" />
-</a>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🏆 TROPHIES -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="28" />
-GitHub Trophies
-</h2>
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=locusyuri&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
 </a>
 
 </div>
@@ -149,7 +151,9 @@ Activity Graph
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=locusyuri&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=a9b1d6&line=7aa2f7&point=ff9e64)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=locusyuri&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="Activity Graph" />
+</a>
 
 </div>
 
