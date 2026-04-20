@@ -4,7 +4,7 @@
 <!-- 🎨 HEADER -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=220&section=header&text=locusyuri&fontSize=55&fontColor=7aa2f7&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=16&descAlignY=55&descColor=a9b1d6" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:a371f7,100:ff7b72&height=220&section=header&text=locusyuri&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=16&descAlignY=55&descColor=f0f6fc" width="100%" />
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=%F0%9F%9A%80+Building+cross-platform+applications;%E2%9C%A8+Kotlin+%7C+Vue+%7C+Spring+Boot+%7C+Flutter)](https://github.com/DenverCoder1/readme-typing-svg)
@@ -56,19 +56,19 @@ Tech Stack
 
 <!-- Skill Icons - Compact overview -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,cs,cpp,python,ts,js&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,cs,cpp,python,ts,js&theme=light" alt="Languages" />
 </a>
 <br/><br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,tailwind,electron,tauri,flutter&theme=dark" alt="Frontend & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,tailwind,electron,tauri,flutter&theme=light" alt="Frontend & Frameworks" />
 </a>
 <br/><br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,mysql,postgres,redis,elasticsearch,prometheus,neo4j&theme=dark" alt="Backend & Database" />
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,mysql,postgres,redis,elasticsearch,prometheus,neo4j&theme=light" alt="Backend & Database" />
 </a>
 <br/><br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,githubactions,gradle,idea,vscode&theme=dark" alt="DevOps & Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,githubactions,gradle,idea,vscode&theme=light" alt="DevOps & Tools" />
 </a>
 
 </div>
@@ -106,36 +106,36 @@ GitHub Stats
 
 <!-- Profile Details Summary Card -->
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=locusyuri&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=locusyuri&theme=github" alt="Profile Details" />
 </a>
 
 <br/>
 
 <!-- Stats + Commits by Language -->
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=locusyuri&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=locusyuri&theme=github" alt="Stats" />
 </a>
 &nbsp;
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=locusyuri&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=locusyuri&theme=github&utcOffset=8" alt="Productive Time" />
 </a>
 
 <br/>
 
 <!-- Repos per Language + Most Commit Language -->
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=locusyuri&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=locusyuri&theme=github" alt="Repos per Language" />
 </a>
 &nbsp;
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=locusyuri&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=locusyuri&theme=github" alt="Most Commit Language" />
 </a>
 
 <br/><br/>
 
 <!-- Streak Stats -->
 <a href="https://github.com/locusyuri">
-  <img src="https://streak-stats.demolab.com/?user=locusyuri&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=locusyuri&theme=github&hide_border=true" alt="GitHub Streak" />
 </a>
 
 </div>
@@ -152,7 +152,7 @@ Activity Graph
 <div align="center">
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=locusyuri&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=locusyuri&theme=github&area=true&hide_border=true" alt="Activity Graph" />
 </a>
 
 </div>
@@ -201,10 +201,10 @@ Connect with Me
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github" alt="Random Dev Quote" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:a371f7,100:ff7b72&height=120&section=footer" width="100%" />
 
 </div>
