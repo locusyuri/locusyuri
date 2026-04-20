@@ -56,19 +56,19 @@ Tech Stack
 
 <!-- Skill Icons - Compact overview -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,cs,cpp,python,ts,js&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,cs,cpp,python,ts,js&theme=light" alt="Languages" />
 </a>
 <br/><br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,tailwind,electron,tauri,flutter&theme=dark" alt="Frontend & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,tailwind,electron,tauri,flutter&theme=light" alt="Frontend & Frameworks" />
 </a>
 <br/><br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,mysql,postgres,redis,elasticsearch,prometheus,neo4j&theme=dark" alt="Backend & Database" />
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,mysql,postgres,redis,elasticsearch,prometheus,neo4j&theme=light" alt="Backend & Database" />
 </a>
 <br/><br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,githubactions,gradle,idea,vscode&theme=dark" alt="DevOps & Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,githubactions,gradle,idea,vscode&theme=light" alt="DevOps & Tools" />
 </a>
 
 </div>
@@ -106,36 +106,36 @@ GitHub Stats
 
 <!-- Profile Details Summary Card -->
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=locusyuri&theme=github_dark" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=locusyuri&theme=github" alt="Profile Details" />
 </a>
 
 <br/>
 
 <!-- Stats + Commits by Language -->
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=locusyuri&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=locusyuri&theme=github" alt="Stats" />
 </a>
 &nbsp;
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=locusyuri&theme=github_dark&utcOffset=8" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=locusyuri&theme=github&utcOffset=8" alt="Productive Time" />
 </a>
 
 <br/>
 
 <!-- Repos per Language + Most Commit Language -->
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=locusyuri&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=locusyuri&theme=github" alt="Repos per Language" />
 </a>
 &nbsp;
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=locusyuri&theme=github_dark" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=locusyuri&theme=github" alt="Most Commit Language" />
 </a>
 
 <br/><br/>
 
 <!-- Streak Stats -->
 <a href="https://github.com/locusyuri">
-  <img src="https://streak-stats.demolab.com/?user=locusyuri&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=locusyuri&theme=github&hide_border=true" alt="GitHub Streak" />
 </a>
 
 </div>
@@ -152,7 +152,7 @@ Activity Graph
 <div align="center">
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=locusyuri&theme=github-dark&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=locusyuri&theme=github&area=true&hide_border=true" alt="Activity Graph" />
 </a>
 
 </div>
@@ -201,7 +201,7 @@ Connect with Me
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="Random Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github" alt="Random Dev Quote" />
 
 <br/><br/>
 
