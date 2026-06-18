@@ -188,30 +188,24 @@ Connect with Me
 </h2>
 
 <div align="center">
-<svg viewBox="0 0 560 340" width="min(94vw,560px)" xmlns="http://www.w3.org/2000/svg" style="border-radius:18px; background:transparent;">
+<svg viewBox="0 0 560 340" width="min(94vw,560px)" xmlns="http://www.w3.org/2000/svg" style="border-radius:18px; overflow:hidden; box-shadow:0 20px 50px rgba(88,166,255,0.20), 0 8px 24px rgba(0,0,0,0.12);">
 <style>
-.card-wrapper{transform-origin:280px 170px;transition:transform 0.4s cubic-bezier(.03,.98,.52,.99)}
-.card-wrapper:has(#tl:hover){transform:perspective(800px) rotateX(5deg) rotateY(-5deg)}
-.card-wrapper:has(#tr:hover){transform:perspective(800px) rotateX(5deg) rotateY(5deg)}
-.card-wrapper:has(#bl:hover){transform:perspective(800px) rotateX(-5deg) rotateY(-5deg)}
-.card-wrapper:has(#br:hover){transform:perspective(800px) rotateX(-5deg) rotateY(5deg)}
-.hotspot{opacity:0;cursor:pointer}
+.card-group{transition:transform 0.4s cubic-bezier(.03,.98,.52,.99);transform-origin:280px 170px}
+.card-group:hover{transform:perspective(800px) rotateX(4deg) rotateY(-4deg)}
 </style>
-<g class="card-wrapper">
+<g class="card-group">
 <defs>
 <linearGradient id="cardBg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#58a6ff"/><stop offset="45%" stop-color="#8b5cf6"/><stop offset="65%" stop-color="#a371f7"/><stop offset="100%" stop-color="#ff7b72"/></linearGradient>
 <linearGradient id="holo" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="rgba(255,255,255,0)"/><stop offset="15%" stop-color="rgba(200,150,255,0.10)"/><stop offset="30%" stop-color="rgba(100,200,255,0.08)"/><stop offset="50%" stop-color="rgba(255,200,200,0.06)"/><stop offset="70%" stop-color="rgba(150,100,255,0.10)"/><stop offset="85%" stop-color="rgba(255,150,200,0.05)"/><stop offset="100%" stop-color="rgba(255,255,255,0)"/></linearGradient>
 <linearGradient id="shine" x1="0" y1="0" x2="1" y2="1"><stop offset="10%" stop-color="transparent"/><stop offset="25%" stop-color="rgba(255,255,255,0.10)"/><stop offset="40%" stop-color="transparent"/><stop offset="60%" stop-color="transparent"/><stop offset="75%" stop-color="rgba(255,255,255,0.06)"/><stop offset="90%" stop-color="transparent"/></linearGradient>
 <linearGradient id="divider" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="rgba(255,255,255,0)"/><stop offset="50%" stop-color="rgba(255,255,255,0.6)"/><stop offset="100%" stop-color="rgba(255,255,255,0)"/></linearGradient>
 <linearGradient id="avatarBg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#fff"/><stop offset="100%" stop-color="#e8e0ff"/></linearGradient>
-<clipPath id="cardClip"><rect width="560" height="340" rx="18"/></clipPath>
 </defs>
-<g clip-path="url(#cardClip)">
-<rect width="560" height="340" fill="url(#cardBg)"/>
-<rect width="560" height="340" fill="url(#holo)" pointer-events="none"/>
-<rect width="560" height="340" fill="url(#shine)" pointer-events="none"/>
+<rect width="560" height="340" rx="18" fill="url(#cardBg)"/>
+<rect width="560" height="340" rx="18" fill="url(#holo)" pointer-events="none"/>
+<rect width="560" height="340" rx="18" fill="url(#shine)" pointer-events="none"/>
 <pattern id="grid" width="5" height="5" patternUnits="userSpaceOnUse"><path d="M0 0h1v5H0z" fill="rgba(255,255,255,0.04)"/></pattern>
-<rect width="560" height="340" fill="url(#grid)" pointer-events="none"/>
+<rect width="560" height="340" rx="18" fill="url(#grid)" pointer-events="none"/>
 <circle cx="34" cy="34" r="2.5" fill="rgba(255,255,255,0.7)"><animate attributeName="opacity" values="0.7;0.3;0.7" dur="3s" repeatCount="indefinite"/></circle>
 <circle cx="504" cy="75" r="1.5" fill="rgba(200,220,255,0.6)"><animate attributeName="opacity" values="0.6;0.2;0.6" dur="2.5s" repeatCount="indefinite"/></circle>
 <circle cx="67" cy="238" r="2" fill="rgba(220,200,255,0.5)"><animate attributeName="opacity" values="0.5;0.15;0.5" dur="4s" repeatCount="indefinite"/></circle>
@@ -233,11 +227,6 @@ Connect with Me
 <rect x="370" y="172" width="160" height="58" rx="12" fill="rgba(255,255,255,0.10)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
 <text x="450" y="190" text-anchor="middle" font-size="10" fill="rgba(255,255,255,0.6)" letter-spacing="0.5" font-family="system-ui,sans-serif">ROLE</text>
 <text x="450" y="214" text-anchor="middle" font-size="16" font-weight="bold" fill="#fff" font-family="system-ui,sans-serif">Full-Stack</text>
-</g>
-<rect id="tl" class="hotspot" x="0" y="0" width="280" height="170"/>
-<rect id="tr" class="hotspot" x="280" y="0" width="280" height="170"/>
-<rect id="bl" class="hotspot" x="0" y="170" width="280" height="170"/>
-<rect id="br" class="hotspot" x="280" y="170" width="280" height="170"/>
 </g>
 </svg>
 </div>
