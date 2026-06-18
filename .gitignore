@@ -1,0 +1,7 @@
+# AI
+.atomcode
+.qoder
+.agents/*.bin
+
+# Other
+ref
