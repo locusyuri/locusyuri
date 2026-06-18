@@ -188,46 +188,47 @@ Connect with Me
 </h2>
 
 <div align="center">
-<div style="position:relative; width:min(94vw,560px); margin:0 auto; border-radius:18px; overflow:hidden; box-shadow:0 20px 50px rgba(88,166,255,0.20), 0 8px 24px rgba(0,0,0,0.12);">
-<div style="background:linear-gradient(135deg,#58a6ff 0%,#8b5cf6 45%,#a371f7 65%,#ff7b72 100%); padding:0;">
-<div style="position:relative; padding:32px 28px 36px; color:white; font-family:system-ui,-apple-system,sans-serif;">
-<div style="position:absolute; inset:0; background:linear-gradient(156deg,rgba(255,255,255,0) 0%,rgba(200,150,255,0.10) 15%,rgba(100,200,255,0.08) 30%,rgba(255,200,200,0.06) 50%,rgba(150,100,255,0.10) 70%,rgba(255,150,200,0.05) 85%,rgba(255,255,255,0) 100%); pointer-events:none;"></div>
-<div style="position:absolute; inset:0; background:linear-gradient(118deg,transparent 10%,rgba(255,255,255,0.10) 25%,transparent 40%,transparent 60%,rgba(255,255,255,0.06) 75%,transparent 90%); pointer-events:none;"></div>
-<div style="position:absolute; inset:0; background-image:repeating-linear-gradient(108deg,rgba(255,255,255,0.04) 0px,rgba(255,255,255,0.04) 1px,transparent 1px,transparent 5px); pointer-events:none;"></div>
-<div style="position:absolute; inset:0; pointer-events:none;">
-<div style="position:absolute; top:10%; left:6%; width:5px; height:5px; border-radius:50%; background:rgba(255,255,255,0.7); box-shadow:0 0 8px rgba(255,255,255,0.5);"></div>
-<div style="position:absolute; top:22%; right:10%; width:3px; height:3px; border-radius:50%; background:rgba(200,220,255,0.6); box-shadow:0 0 6px rgba(200,220,255,0.4);"></div>
-<div style="position:absolute; bottom:30%; left:12%; width:4px; height:4px; border-radius:50%; background:rgba(220,200,255,0.5); box-shadow:0 0 6px rgba(220,200,255,0.3);"></div>
-<div style="position:absolute; top:45%; right:6%; width:2px; height:2px; border-radius:50%; background:rgba(180,255,255,0.7); box-shadow:0 0 6px rgba(180,255,255,0.4);"></div>
-</div>
-<div style="display:flex; align-items:center; gap:14px; position:relative; z-index:1;">
-<div style="width:52px; height:52px; border-radius:50%; background:linear-gradient(135deg,#fff 0%,#e8e0ff 100%); display:flex; align-items:center; justify-content:center; font-size:26px; font-weight:bold; color:#7c3aed; box-shadow:0 2px 10px rgba(0,0,0,0.15);">L</div>
-<div>
-<div style="font-size:12px; opacity:0.75; letter-spacing:1.5px; font-weight:500;">CatMono</div>
-<div style="font-size:24px; font-weight:700; letter-spacing:-0.5px; line-height:1.2;">locusyuri</div>
-</div>
-</div>
-<div style="margin:22px 0 20px; height:1px; background:linear-gradient(90deg,rgba(255,255,255,0) 0%,rgba(255,255,255,0.6) 50%,rgba(255,255,255,0) 100%); position:relative; z-index:1;"></div>
-<div style="display:inline-block; padding:5px 16px; border-radius:20px; border:1px solid rgba(255,255,255,0.3); background:rgba(255,255,255,0.08); font-size:13px; font-weight:500; letter-spacing:0.5px; backdrop-filter:blur(4px); position:relative; z-index:1;">🚀 Full-Stack Developer</div>
-<div style="margin-top:16px; font-size:14px; font-weight:500; opacity:0.5; letter-spacing:4px; font-family:monospace; position:relative; z-index:1;">NO. 141592</div>
-<div style="margin-top:24px; display:flex; gap:12px; position:relative; z-index:1;">
-<div style="flex:1; padding:12px 14px; border-radius:12px; background:rgba(255,255,255,0.10); border:1px solid rgba(255,255,255,0.15); text-align:center;">
-<div style="font-size:11px; opacity:0.6; letter-spacing:0.5px;">STACK</div>
-<div style="font-size:16px; font-weight:600; margin-top:4px;">8+</div>
-</div>
-<div style="flex:1; padding:12px 14px; border-radius:12px; background:rgba(255,255,255,0.10); border:1px solid rgba(255,255,255,0.15); text-align:center;">
-<div style="font-size:11px; opacity:0.6; letter-spacing:0.5px;">LANG</div>
-<div style="font-size:16px; font-weight:600; margin-top:4px;">9</div>
-</div>
-<div style="flex:1; padding:12px 14px; border-radius:12px; background:rgba(255,255,255,0.10); border:1px solid rgba(255,255,255,0.15); text-align:center;">
-<div style="font-size:11px; opacity:0.6; letter-spacing:0.5px;">ROLE</div>
-<div style="font-size:16px; font-weight:600; margin-top:4px;">Full-Stack</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<br/>
+<svg viewBox="0 0 560 340" width="min(94vw,560px)" xmlns="http://www.w3.org/2000/svg" style="border-radius:18px; overflow:hidden; box-shadow:0 20px 50px rgba(88,166,255,0.20), 0 8px 24px rgba(0,0,0,0.12);">
+<style>
+.card-group{transition:transform 0.4s cubic-bezier(.03,.98,.52,.99);transform-origin:280px 170px}
+.card-group:hover{transform:perspective(800px) rotateX(4deg) rotateY(-4deg)}
+</style>
+<g class="card-group">
+<defs>
+<linearGradient id="cardBg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#58a6ff"/><stop offset="45%" stop-color="#8b5cf6"/><stop offset="65%" stop-color="#a371f7"/><stop offset="100%" stop-color="#ff7b72"/></linearGradient>
+<linearGradient id="holo" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="rgba(255,255,255,0)"/><stop offset="15%" stop-color="rgba(200,150,255,0.10)"/><stop offset="30%" stop-color="rgba(100,200,255,0.08)"/><stop offset="50%" stop-color="rgba(255,200,200,0.06)"/><stop offset="70%" stop-color="rgba(150,100,255,0.10)"/><stop offset="85%" stop-color="rgba(255,150,200,0.05)"/><stop offset="100%" stop-color="rgba(255,255,255,0)"/></linearGradient>
+<linearGradient id="shine" x1="0" y1="0" x2="1" y2="1"><stop offset="10%" stop-color="transparent"/><stop offset="25%" stop-color="rgba(255,255,255,0.10)"/><stop offset="40%" stop-color="transparent"/><stop offset="60%" stop-color="transparent"/><stop offset="75%" stop-color="rgba(255,255,255,0.06)"/><stop offset="90%" stop-color="transparent"/></linearGradient>
+<linearGradient id="divider" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="rgba(255,255,255,0)"/><stop offset="50%" stop-color="rgba(255,255,255,0.6)"/><stop offset="100%" stop-color="rgba(255,255,255,0)"/></linearGradient>
+<linearGradient id="avatarBg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#fff"/><stop offset="100%" stop-color="#e8e0ff"/></linearGradient>
+</defs>
+<rect width="560" height="340" rx="18" fill="url(#cardBg)"/>
+<rect width="560" height="340" rx="18" fill="url(#holo)" pointer-events="none"/>
+<rect width="560" height="340" rx="18" fill="url(#shine)" pointer-events="none"/>
+<pattern id="grid" width="5" height="5" patternUnits="userSpaceOnUse"><path d="M0 0h1v5H0z" fill="rgba(255,255,255,0.04)"/></pattern>
+<rect width="560" height="340" rx="18" fill="url(#grid)" pointer-events="none"/>
+<circle cx="34" cy="34" r="2.5" fill="rgba(255,255,255,0.7)"><animate attributeName="opacity" values="0.7;0.3;0.7" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="504" cy="75" r="1.5" fill="rgba(200,220,255,0.6)"><animate attributeName="opacity" values="0.6;0.2;0.6" dur="2.5s" repeatCount="indefinite"/></circle>
+<circle cx="67" cy="238" r="2" fill="rgba(220,200,255,0.5)"><animate attributeName="opacity" values="0.5;0.15;0.5" dur="4s" repeatCount="indefinite"/></circle>
+<circle cx="526" cy="153" r="1" fill="rgba(180,255,255,0.7)"><animate attributeName="opacity" values="0.7;0.25;0.7" dur="3.5s" repeatCount="indefinite"/></circle>
+<circle cx="42" cy="50" r="26" fill="url(#avatarBg)" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
+<text x="42" y="57" text-anchor="middle" font-size="26" font-weight="bold" fill="#7c3aed" font-family="system-ui,sans-serif">L</text>
+<text x="80" y="40" font-size="12" fill="rgba(255,255,255,0.75)" letter-spacing="1.5" font-family="system-ui,sans-serif">LOCUSYURI</text>
+<text x="80" y="62" font-size="22" font-weight="bold" fill="#fff" font-family="system-ui,sans-serif">locusyuri</text>
+<rect x="30" y="88" width="500" height="1" rx="0.5" fill="url(#divider)"/>
+<rect x="30" y="106" width="155" height="26" rx="13" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
+<text x="44" y="123" font-size="12" fill="#fff" font-family="system-ui,sans-serif">🚀 Full-Stack Developer</text>
+<text x="30" y="152" font-size="12" fill="rgba(255,255,255,0.4)" letter-spacing="4" font-family="monospace,sans-serif">NO. 141592</text>
+<rect x="30" y="172" width="160" height="58" rx="12" fill="rgba(255,255,255,0.10)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+<text x="110" y="190" text-anchor="middle" font-size="10" fill="rgba(255,255,255,0.6)" letter-spacing="0.5" font-family="system-ui,sans-serif">STACK</text>
+<text x="110" y="214" text-anchor="middle" font-size="16" font-weight="bold" fill="#fff" font-family="system-ui,sans-serif">8+</text>
+<rect x="200" y="172" width="160" height="58" rx="12" fill="rgba(255,255,255,0.10)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+<text x="280" y="190" text-anchor="middle" font-size="10" fill="rgba(255,255,255,0.6)" letter-spacing="0.5" font-family="system-ui,sans-serif">LANG</text>
+<text x="280" y="214" text-anchor="middle" font-size="16" font-weight="bold" fill="#fff" font-family="system-ui,sans-serif">9</text>
+<rect x="370" y="172" width="160" height="58" rx="12" fill="rgba(255,255,255,0.10)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+<text x="450" y="190" text-anchor="middle" font-size="10" fill="rgba(255,255,255,0.6)" letter-spacing="0.5" font-family="system-ui,sans-serif">ROLE</text>
+<text x="450" y="214" text-anchor="middle" font-size="16" font-weight="bold" fill="#fff" font-family="system-ui,sans-serif">Full-Stack</text>
+</g>
+</svg>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
