@@ -188,9 +188,46 @@ Connect with Me
 </h2>
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-locusyuri-1a1b27?style=for-the-badge&logo=github&logoColor=white)](https://github.com/locusyuri)
-
+<div style="position:relative; width:min(94vw,560px); margin:0 auto; border-radius:18px; overflow:hidden; box-shadow:0 20px 50px rgba(88,166,255,0.20), 0 8px 24px rgba(0,0,0,0.12);">
+<div style="background:linear-gradient(135deg,#58a6ff 0%,#8b5cf6 45%,#a371f7 65%,#ff7b72 100%); padding:0;">
+<div style="position:relative; padding:32px 28px 36px; color:white; font-family:system-ui,-apple-system,sans-serif;">
+<div style="position:absolute; inset:0; background:linear-gradient(156deg,rgba(255,255,255,0) 0%,rgba(200,150,255,0.10) 15%,rgba(100,200,255,0.08) 30%,rgba(255,200,200,0.06) 50%,rgba(150,100,255,0.10) 70%,rgba(255,150,200,0.05) 85%,rgba(255,255,255,0) 100%); pointer-events:none;"></div>
+<div style="position:absolute; inset:0; background:linear-gradient(118deg,transparent 10%,rgba(255,255,255,0.10) 25%,transparent 40%,transparent 60%,rgba(255,255,255,0.06) 75%,transparent 90%); pointer-events:none;"></div>
+<div style="position:absolute; inset:0; background-image:repeating-linear-gradient(108deg,rgba(255,255,255,0.04) 0px,rgba(255,255,255,0.04) 1px,transparent 1px,transparent 5px); pointer-events:none;"></div>
+<div style="position:absolute; inset:0; pointer-events:none;">
+<div style="position:absolute; top:10%; left:6%; width:5px; height:5px; border-radius:50%; background:rgba(255,255,255,0.7); box-shadow:0 0 8px rgba(255,255,255,0.5);"></div>
+<div style="position:absolute; top:22%; right:10%; width:3px; height:3px; border-radius:50%; background:rgba(200,220,255,0.6); box-shadow:0 0 6px rgba(200,220,255,0.4);"></div>
+<div style="position:absolute; bottom:30%; left:12%; width:4px; height:4px; border-radius:50%; background:rgba(220,200,255,0.5); box-shadow:0 0 6px rgba(220,200,255,0.3);"></div>
+<div style="position:absolute; top:45%; right:6%; width:2px; height:2px; border-radius:50%; background:rgba(180,255,255,0.7); box-shadow:0 0 6px rgba(180,255,255,0.4);"></div>
+</div>
+<div style="display:flex; align-items:center; gap:14px; position:relative; z-index:1;">
+<div style="width:52px; height:52px; border-radius:50%; background:linear-gradient(135deg,#fff 0%,#e8e0ff 100%); display:flex; align-items:center; justify-content:center; font-size:26px; font-weight:bold; color:#7c3aed; box-shadow:0 2px 10px rgba(0,0,0,0.15);">L</div>
+<div>
+<div style="font-size:12px; opacity:0.75; letter-spacing:1.5px; font-weight:500;">CatMono</div>
+<div style="font-size:24px; font-weight:700; letter-spacing:-0.5px; line-height:1.2;">locusyuri</div>
+</div>
+</div>
+<div style="margin:22px 0 20px; height:1px; background:linear-gradient(90deg,rgba(255,255,255,0) 0%,rgba(255,255,255,0.6) 50%,rgba(255,255,255,0) 100%); position:relative; z-index:1;"></div>
+<div style="display:inline-block; padding:5px 16px; border-radius:20px; border:1px solid rgba(255,255,255,0.3); background:rgba(255,255,255,0.08); font-size:13px; font-weight:500; letter-spacing:0.5px; backdrop-filter:blur(4px); position:relative; z-index:1;">🚀 Full-Stack Developer</div>
+<div style="margin-top:16px; font-size:14px; font-weight:500; opacity:0.5; letter-spacing:4px; font-family:monospace; position:relative; z-index:1;">NO. 141592</div>
+<div style="margin-top:24px; display:flex; gap:12px; position:relative; z-index:1;">
+<div style="flex:1; padding:12px 14px; border-radius:12px; background:rgba(255,255,255,0.10); border:1px solid rgba(255,255,255,0.15); text-align:center;">
+<div style="font-size:11px; opacity:0.6; letter-spacing:0.5px;">STACK</div>
+<div style="font-size:16px; font-weight:600; margin-top:4px;">8+</div>
+</div>
+<div style="flex:1; padding:12px 14px; border-radius:12px; background:rgba(255,255,255,0.10); border:1px solid rgba(255,255,255,0.15); text-align:center;">
+<div style="font-size:11px; opacity:0.6; letter-spacing:0.5px;">LANG</div>
+<div style="font-size:16px; font-weight:600; margin-top:4px;">9</div>
+</div>
+<div style="flex:1; padding:12px 14px; border-radius:12px; background:rgba(255,255,255,0.10); border:1px solid rgba(255,255,255,0.15); text-align:center;">
+<div style="font-size:11px; opacity:0.6; letter-spacing:0.5px;">ROLE</div>
+<div style="font-size:16px; font-weight:600; margin-top:4px;">Full-Stack</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<br/>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -203,7 +240,7 @@ Connect with Me
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github" alt="Random Dev Quote" />
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:a371f7,100:ff7b72&height=120&section=footer" width="100%" />
 
